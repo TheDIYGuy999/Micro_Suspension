@@ -16,6 +16,6 @@ New in V 0.1:
 ## Usage
 
 See pictures
-![](https://github.com/TheDIYGuy999/Micro_RC_Receiver/blob/master/testRig.jpg)
+![](https://github.com/TheDIYGuy999/Micro_Suspension/blob/master/testRig.jpg)
 
 (c) 2020 - 2020 TheDIYGuy999
